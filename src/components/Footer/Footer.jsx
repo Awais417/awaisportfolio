@@ -59,7 +59,7 @@ AWAIS MUHAMMAD                </span>
                 viewport={{ once: true }}
                 transition={{ duration: 0.6, delay: 0.2 }}
               >
-                Senior React.js/Next.js and Node.js Developer with 8+ years of experience. Currently working as Senior
+                Senior React.js/Next.js and Node.js Developer with 10+ years of experience. Currently working as Senior
                 MERN Stack Developer at StudioLabs LLC, New York,USA.
               </motion.p>
               <div className="d-flex align-items-center mb-3 text-light">
