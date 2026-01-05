@@ -60,7 +60,7 @@ const Experience = () => {
           variants={circleVariants}
           whileHover={{ scale: 1.1, rotate: 360 }}
           transition={{ duration: 0.5 }}
-        >10</motion.div>
+        >6</motion.div>
         <span  style={{color: darkMode?'white':'white'}}>years </span>
         <span>Experience</span>
       </motion.div>

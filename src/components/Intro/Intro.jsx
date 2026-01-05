@@ -51,7 +51,7 @@ const Intro = () => {
 
      <span class="title-word title-word-1">Senior Full Stack Developer</span>
     <span class="title-word title-word-2"> with</span>
-    <span class="title-word title-word-3"> 10 + years experience</span>
+    <span class="title-word title-word-3"> 6+ years experience</span>
     <span class="title-word title-word-4"> React, Next.js, Node.js, NestJS, Express.js, </span>
     <span class="title-word title-word-1"> Python (FastAPI), .NET MVC, and AI/LLM integrations</span>
 

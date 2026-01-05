@@ -49,7 +49,7 @@ const Works = () => {
             viewport={{ once: true }}
             transition={{ duration: 0.6, delay: 0.5 }}
           >
-I am senior React js/Next.js/MERN/PERB and Node js nest and express developer with 10 + years experience              <br />
+I am senior React js/Next.js/MERN/PERB and Node js nest and express developer with 6 + years experience              <br />
            I worked as Senior Full Stack developer at StudioLabs.io LTD,New York,USA  
              
             <br />
